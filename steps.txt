@@ -1,0 +1,13 @@
+1)Dlib_Windows_Python3.x-main in python - download from github
+
+2) Downlaad zip - https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+
+3) C:\Users\KISHAN YADAV\Downloads\Dlib_Windows_Python3.x-main\Dlib_Windows_Python3.x-main\dlib-19.24.99-cp312-cp312-win_amd64.whl
+
+--> python -m venv .env --> to create venv
+--> python install -r requirement.txt
+
+4) install library using below cmd - make sure to activate env
+
+pip install "C:\Users\KISHAN YADAV\Downloads\Dlib_Windows_Python3.x-main\Dlib_Windows_Python3.x-main\dlib-19.24.99-cp312-cp312-win_amd64.whl" --no-index 
+--find-link "C:\Users\KISHAN YADAV\Downloads\Dlib_Windows_Python3.x-main\Dlib_Windows_Python3.x-main"         
